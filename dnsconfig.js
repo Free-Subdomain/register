@@ -1,6 +1,6 @@
 var REG_NONE = NewRegistrar("none");
 var DNS_BIND = NewDnsProvider("cloudflare");
-var DOMAIN_NAME = "thedev.me"
+var DOMAIN_NAME = "furry-dev.ru"
 
 function createSubdomainsObject(jsonsPath) {
   var domains = [];
