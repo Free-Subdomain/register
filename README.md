@@ -81,7 +81,7 @@ By using this service, you agree to be bound by our [Terms of Service](TERMS.md)
 
 ## License
 
-MIT License
+MIT License, thedev.me
 
 
 ## Support
